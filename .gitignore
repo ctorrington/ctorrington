@@ -1,5 +1,6 @@
 .vagrant
 /cookbooks
+/how to cook cake
 
 # Bundler
 bin/*
@@ -7,3 +8,4 @@ bin/*
 
 .kitchen/
 .kitchen.local.yml
+.burnt cake in the oven
