@@ -26,7 +26,7 @@ Here are some ideas to get you started:
  
 As a recent graduate with a 1st Class degree in Computer Science, I am eager to apply my knowledge and skills to a challenging and rewarding role in the tech industry. My strong foundation in programming, data structures, and advanced algorithms, as well as my experience in projects, have prepared me well for a career in software development. I am a fast and self-motivated learner, and have demonstrated my commitment to expanding my skillset through earning multiple certificates in various technologies outside of my formal education. I am able to work well in a team, and I am always seeking to improve my skills and take on new challenges. I am very excited to bring my passion and dedication to a company and to help drive business forward.
 
-# Current Developemnts
+# Current Developemnts 🧗‍♀️
  - Working towards my Tensorflow Certification
  - Learning Scala
  - Reading papers relating to image synthesis with diffusion networks
