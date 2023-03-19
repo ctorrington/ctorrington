@@ -52,3 +52,4 @@ As a recent graduate with a 1st Class degree in Computer Science, I am eager to 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width = 40 height = 40 /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" width = 40 height = 40 /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width = 40 height = 40 /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width = 40 height = 40 /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width = 40 height = 40 /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" width = 40 height = 40 />
 
 
+
