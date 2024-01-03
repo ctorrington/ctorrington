@@ -31,7 +31,7 @@ In my own time I am working on my UmbrellaRL ☂️ python package & am getting 
  - UmbrellaRL ☂️ takes up all of my time 👀
 
 # Project Experience 🍰
-- Be Free Campaign
+- Be Free Campaign<br>
 Developed web crawlers for mental health charity to aid with their client discovery. Scraped as much data as possible & fed it into their SalesForce client outreach pipeline (after making that).
 - Various Xander Talent Academy Projects
 
