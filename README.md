@@ -21,28 +21,28 @@ Here are some ideas to get you started:
 		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width = 40 height = 40/>
 	</a>
 	Christopher Torrington
-	<img src = "https://github.com/ctorrington/ctorrington/blob/main/images/github%20image%201.png" width = 190 height = 190 align = right>
+<!-- 	<img src = "https://github.com/ctorrington/ctorrington/blob/main/images/github%20image%201.png" width = 190 height = 190 align = right> -->
 </h1>
- 
-As a recent graduate with a 1st Class degree in Computer Science, I am eager to apply my knowledge and skills to a challenging and rewarding role in the tech industry. My strong foundation in programming, data structures, and advanced algorithms, as well as my experience in projects, have prepared me well for a career in software development. I am a fast and self-motivated learner, and have demonstrated my commitment to expanding my skillset through earning multiple certificates in various technologies outside of my formal education. I am able to work well in a team, and I am always seeking to improve my skills and take on new challenges. I am very excited to bring my passion and dedication to a company and to help drive business forward.
+
+Currently working as a Software Engineer at Xander Talent & consulting for Quantexa!
+In my own time I am working on my UmbrellaRL ☂️ python package & am getting really absorbed into the design process for that. (Please reach out if you see any way to improve upon it!)
 
 # Current Developemnts 🧗‍♀️
- - Working towards my Tensorflow Certification
- - Learning Scala
- - Reading papers relating to image synthesis with diffusion networks
+ - UmbrellaRL ☂️ takes up all of my time 👀
+
+# Project Experience 🍰
+- Be Free Campaign
+Developed web crawlers for mental health charity to aid with their client discovery. Scraped as much data as possible & fed it into their SalesForce client outreach pipeline (after making that).
+- Various Xander Talent Academy Projects
 
 # University Experience
 <p>
-<img src = "https://github.com/ctorrington/ctorrington/blob/main/images/github%20image%202.png" width = 280 height = 180 align = "right">
+<!-- <img src = "https://github.com/ctorrington/ctorrington/blob/main/images/github%20image%202.png" width = 280 height = 180 align = "right"> -->
 • Strong foundation in key computer science concepts such as data structures, advanced algorithms, and programming languages (Python, Java, R)<br/>
 • Specialised coursework in mathematical modelling, optimisation techniques, graph theory, and software engineering.<br/>
 • Completed a dissertation project investigating the ability of a reinforcement learning agent to improve upon the container loading problem.<br/>
 • Proficient in SQL and Git.
 </p>
-
-# Project Experience 🍰
-- Be Free Campaign
-- Various Xander Talent Academy Projects
 
 # Tech stack:
 ## Languages
